@@ -1,0 +1,22 @@
+{
+  "name": "git_test",
+  "version": "1.0.0",
+  "description": "(pasta_de_teste)",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm rum lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },  
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorPA21/git_atv.git"
+  },
+  "author": "Igor Pereira",
+  "license": "ISC",
+  "homepage": "https://github.com/igorPA21/git_atv.git",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
